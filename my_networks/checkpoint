@@ -1,0 +1,2 @@
+model_checkpoint_path: "my-three-layer-networks-3000"
+all_model_checkpoint_paths: "my-three-layer-networks-3000"
